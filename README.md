@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TazviGumbo
-- 👀 I’m interested in ... web dev
-- 🌱 I’m currently learning ... computer sciences
+- 👀 I’m interested in...Web Development and Software Development 
+- 🍃 Computer Sciences Graduate 
